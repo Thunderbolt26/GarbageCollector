@@ -1,0 +1,16 @@
+start: 0x4040000
+size: 80
+is_free: 0
+
+start: 0x4040064
+size: 80
+is_free: 1
+
+start: 0x40400c8
+size: 20
+is_free: 0
+
+start: 0x40400f0
+size: 40
+is_free: 1
+

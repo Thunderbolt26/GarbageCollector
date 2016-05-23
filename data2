@@ -1,0 +1,12 @@
+start: 0x4241000
+size: 80
+is_free: 0
+
+start: 0x4241064
+size: 20
+is_free: 0
+
+start: 0x424108c
+size: 40
+is_free: 1
+
